@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dd0436ZlEEE=",
+  "dgSpecHash": "J8TW7oAUxpQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\estudiante\\Pictures\\TallerAutenticacion\\logica\\logica.csproj",
+  "projectFilePath": "C:\\Users\\Erick\\OneDrive\\Escritorio\\TallerArquitectura\\TallerArquiAutenticacion\\logica\\logica.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\estudiante\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
-    "C:\\Users\\estudiante\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Erick\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\Erick\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }

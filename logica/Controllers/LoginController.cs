@@ -19,22 +19,22 @@ namespace Logica.Controllers
 
         [HttpPost("autenticar")]
         public async Task<IActionResult> Autenticar([FromBody] Login request)
-        {
-            if (request == null || string.IsNullOrWhiteSpace(request.Username) || string.IsNullOrWhiteSpace(request.Password))
             {
-                return BadRequest("Usuario o contraseña vacíos.");
-            }
+                if (request == null || string.IsNullOrWhiteSpace(request.Username) || string.IsNullOrWhiteSpace(request.Password))
+                {
+                    return Ok(new { exito = false, mensaje = "Usuario o contraseña vacíos." });
+                }
 
-            var resultado = await _loginService.LoginUsuarioAsync(request.Username, request.Password);
+                var resultado = await _loginService.LoginUsuarioAsync(request.Username, request.Password);
 
-            if (resultado == 1)
-            {
-                return Ok(new { mensaje = "Inicio de sesión exitoso." });
+                if (resultado == 1)
+                {
+                    return Ok(new { exito = true, mensaje = "Inicio de sesión exitoso." });
+                }
+                else
+                {
+                    return Ok(new { exito = false, mensaje = "Credenciales incorrectas." });
+                }
             }
-            else
-            {
-                return Unauthorized(new { mensaje = "Credenciales incorrectas." });
-            }
-        }
     }
 }

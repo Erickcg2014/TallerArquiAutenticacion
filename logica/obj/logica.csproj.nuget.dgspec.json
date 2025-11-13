@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\estudiante\\Pictures\\TallerAutenticacion\\logica\\logica.csproj": {}
+    "C:\\Users\\Erick\\OneDrive\\Escritorio\\TallerArquitectura\\TallerArquiAutenticacion\\logica\\logica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\estudiante\\Pictures\\TallerAutenticacion\\logica\\logica.csproj": {
+    "C:\\Users\\Erick\\OneDrive\\Escritorio\\TallerArquitectura\\TallerArquiAutenticacion\\logica\\logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\estudiante\\Pictures\\TallerAutenticacion\\logica\\logica.csproj",
+        "projectUniqueName": "C:\\Users\\Erick\\OneDrive\\Escritorio\\TallerArquitectura\\TallerArquiAutenticacion\\logica\\logica.csproj",
         "projectName": "logica",
-        "projectPath": "C:\\Users\\estudiante\\Pictures\\TallerAutenticacion\\logica\\logica.csproj",
-        "packagesPath": "C:\\Users\\estudiante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\estudiante\\Pictures\\TallerAutenticacion\\logica\\obj\\",
+        "projectPath": "C:\\Users\\Erick\\OneDrive\\Escritorio\\TallerArquitectura\\TallerArquiAutenticacion\\logica\\logica.csproj",
+        "packagesPath": "C:\\Users\\Erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erick\\OneDrive\\Escritorio\\TallerArquitectura\\TallerArquiAutenticacion\\logica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

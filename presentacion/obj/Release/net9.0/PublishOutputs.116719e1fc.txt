@@ -1,0 +1,7 @@
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\presentacion.exe
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\appsettings.Development.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\appsettings.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\presentacion.dll
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\presentacion.deps.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\presentacion.runtimeconfig.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\presentacion.pdb

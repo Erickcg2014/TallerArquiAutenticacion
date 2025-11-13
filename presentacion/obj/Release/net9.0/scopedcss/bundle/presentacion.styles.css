@@ -1,0 +1,41 @@
+/* _content/presentacion/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Estilo para la marca del navbar */
+a.navbar-brand[b-14tuvim6v2] {
+  white-space: nowrap;
+  font-size: 1.2rem;
+}
+
+/* Enlaces generales del sitio */
+a[b-14tuvim6v2] {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+/* Botón principal */
+.btn-primary[b-14tuvim6v2] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Borders */
+.border-top[b-14tuvim6v2] {
+  border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-14tuvim6v2] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* Sombra del navbar */
+.box-shadow[b-14tuvim6v2] {
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.08);
+}
+
+/* Footer mejorado */
+.footer[b-14tuvim6v2] {
+  width: 100%;
+  white-space: nowrap;
+  font-size: 0.9rem;
+  background: #f8f9fa;
+}

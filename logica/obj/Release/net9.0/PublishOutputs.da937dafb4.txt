@@ -1,0 +1,15 @@
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\logica.exe
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\publish\web.config
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\appsettings.Development.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\appsettings.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\publish\appsettings.Development.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\publish\appsettings.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\publish\logica.deps.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\publish\logica.runtimeconfig.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\publish\logica.staticwebassets.endpoints.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\logica.dll
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\logica.deps.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\logica.runtimeconfig.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\logica.pdb
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\logica\publish\Microsoft.OpenApi.dll

@@ -1,0 +1,38 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: logica-deployment
+  labels:
+    app: logica
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: logica
+  template:
+    metadata:
+      labels:
+        app: logica
+    spec:
+      containers:
+        - name: logica
+          image: logica:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 80
+          env:
+            - name: ASPNETCORE_ENVIRONMENT
+              value: "Production"
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: logica-service
+spec:
+  type: ClusterIP
+  selector:
+    app: logica
+  ports:
+    - port: 80
+      targetPort: 80

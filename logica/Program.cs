@@ -7,13 +7,14 @@ public class Program
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
+        builder.Services.AddRazorPages();
+        builder.Services.AddHttpClient();
 
         builder.Services.AddControllers();
 
-            // Registrar el servicio LoginService (inyección de dependencias)
+        // Registrar el servicio LoginService (inyección de dependencias)
         builder.Services.AddScoped<LoginService>();
 
-        // Add services to the container.
 
         builder.Services.AddControllers();
         // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi

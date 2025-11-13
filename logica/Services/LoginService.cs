@@ -7,7 +7,7 @@ namespace Logica.Services
     {
         public async Task<int> LoginUsuarioAsync(string username, string password)
         {
-            // En este caso no hay operaciones asíncronas, pero dejamos async por consistencia
+            // En este caso no hay operaciones asíncronas
             await Task.Yield();
 
             if (username == "admin" && password == "123")

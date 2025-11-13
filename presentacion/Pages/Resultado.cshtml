@@ -1,0 +1,29 @@
+@page
+@model presentacion.Pages.ResultadoModel
+@{
+    ViewData["Title"] = "Resultado de Autenticación";
+
+    var mensaje = TempData["Mensaje"] as string;
+    bool esError = false;
+    if (TempData["EsError"] is bool valor)
+    {
+        esError = valor;
+    }
+}
+
+<h1>Resultado de Autenticación</h1>
+
+@if (!string.IsNullOrEmpty(mensaje))
+{
+    <div style="margin-top:15px; font-weight:bold; color:@(esError ? "red" : "green")">
+        @mensaje
+    </div>
+}
+else
+{
+    <p>No hay mensaje para mostrar. Vuelve al login.</p>
+}
+
+<div style="margin-top:20px;">
+    <a asp-page="/Index">Volver al login</a>
+</div>
