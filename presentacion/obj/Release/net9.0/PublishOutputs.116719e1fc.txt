@@ -1,6 +1,12 @@
 C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\presentacion.exe
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\publish\web.config
 C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\appsettings.Development.json
 C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\appsettings.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\publish\appsettings.Development.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\publish\appsettings.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\publish\presentacion.deps.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\publish\presentacion.runtimeconfig.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\publish\presentacion.staticwebassets.endpoints.json
 C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\presentacion.dll
 C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\presentacion.deps.json
 C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\publish\presentacion.runtimeconfig.json

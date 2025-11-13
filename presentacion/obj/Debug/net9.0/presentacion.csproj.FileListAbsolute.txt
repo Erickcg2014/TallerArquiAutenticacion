@@ -1,5 +1,11 @@
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\bin\Debug\net9.0\publish\web.config
 C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\bin\Debug\net9.0\appsettings.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\bin\Debug\net9.0\publish\appsettings.Development.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\bin\Debug\net9.0\publish\appsettings.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\bin\Debug\net9.0\publish\presentacion.deps.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\bin\Debug\net9.0\publish\presentacion.runtimeconfig.json
+C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\bin\Debug\net9.0\publish\presentacion.staticwebassets.endpoints.json
 C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\bin\Debug\net9.0\presentacion.staticwebassets.runtime.json
 C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\bin\Debug\net9.0\presentacion.staticwebassets.endpoints.json
 C:\Users\Erick\OneDrive\Escritorio\TallerArquitectura\TallerArquiAutenticacion\presentacion\bin\Debug\net9.0\presentacion.exe
