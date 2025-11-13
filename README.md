@@ -9,16 +9,15 @@
 
 ## 🏗 Construcción del proyecto
 
+Entre a la terminal CMD y entre a la carpeta de proyecto para ejecutar lo siguiente:
+
 1. Entrar a la carpeta **logica** y ejecutar:  
-   bash
    build_logica.bat
 
 2. Entrar a la carpeta **presentacion** y ejecutar:  
-   bash
    build_presentacion.bat
 
 3. Entrar a la carpeta **k8s** y ejecutar:  
-   bash
    aplicar_configuraciones.bat
 
 ---
@@ -26,11 +25,9 @@
 ## ☸ Comandos de Kubernetes
 
 📦 Ver los pods activos:
-bash
 kubectl get pods
 
 🌐 Ver los servicios y sus puertos:
-bash
 kubectl get svc
 
 ---
@@ -39,7 +36,6 @@ kubectl get svc
 
 Si deseas _recrear los pods_:
 
-bash
 kubectl delete --all pods
 
 > Los pods se volverán a crear automáticamente según las configuraciones aplicadas.
